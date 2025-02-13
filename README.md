@@ -9,11 +9,11 @@ Feel free to reach out to me. <br>
 [LinkedIn](https://fi.linkedin.com/in/brigitte-lanz-2ba30751?trk=people-guest_people_search-card)
 
 Tech stack skills `to be checked on the go` :<br>
-- [ ] Git
+- [x] Git
 - [x] GitHub
-- [ ] HTML 5
-- [ ] CSS
-- [ ] JavaScript
+- [x] HTML 5
+- [x] CSS
+- [x] JavaScript
 - [ ] React
 - [ ] Next.js
 - [ ] mongoDB
