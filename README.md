@@ -14,7 +14,7 @@ Tech stack skills `to be checked on the go` :<br>
 - [x] HTML 5
 - [x] CSS
 - [x] JavaScript
-- [ ] React
+- [x] React
 - [ ] Next.js
 - [ ] mongoDB
 
