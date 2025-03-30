@@ -8,7 +8,7 @@ Feel free to reach out to me. <br>
 
 [LinkedIn](https://fi.linkedin.com/in/brigitte-lanz-2ba30751?trk=people-guest_people_search-card)
 
-Tech stack skills `to be checked on the go` :<br>
+Tech stack skills `to be updated on the go` :<br>
 - [x] Git
 - [x] GitHub
 - [x] HTML 5
