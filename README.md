@@ -17,4 +17,4 @@ Tech stack skills `to be updated on the go` :<br>
 - [x] React
 - [x] Next.js
 - [x] Node.js
-- [x] mongoDB
+- [x] MongoDB
