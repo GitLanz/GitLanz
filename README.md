@@ -11,7 +11,7 @@ Feel free to reach out to me. <br>
 Tech stack skills `to be updated on the go` :<br>
 - [x] Git
 - [x] GitHub
-- [x] HTML 5
+- [x] HTML5
 - [x] CSS
 - [x] JavaScript
 - [x] React
